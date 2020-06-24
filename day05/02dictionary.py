@@ -34,7 +34,7 @@ print(dic1)
 dic1.pop("age")
 print(dic1)
 
-#딕셔너리의 복사 cope(), =
+#딕셔너리의 복사 copy(), =
 
 #딕셔너리 items() - 키, 값을 튜플로 묶어서 리스트로 반환해줍니다
 print(  dic1.items() )
